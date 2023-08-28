@@ -1,0 +1,59 @@
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700;800&display=swap');
+
+  html{
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  body{
+    background-color: lightgray;
+  }
+
+  header, section {
+    background-color: whitesmoke;
+    border-radius: 1%;
+    width: 60%;
+    margin: auto;
+
+  }
+
+  section{
+    margin-top: 10px;
+
+  }
+
+   a{
+    background-color: palevioletred;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 8%;
+    color:white;
+    font-weight: 700;
+    text-decoration: none;
+
+  }
+
+  h1{
+    color: palevioletred;
+    font-weight: 800;
+  }
+  
+
+  p{
+    margin:25px;
+    text-align: justify;
+  }
+
+  li{
+    display: inline-block;
+    padding: 15px;
+
+  }
+  .center{
+    text-align: center;
+
+  }
+
+#TimPicture{
+    border-radius: 50%;
+}
