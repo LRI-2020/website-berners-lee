@@ -22,6 +22,10 @@
 
   }
 
+  header{
+    height:550px;
+  }
+
    a{
     background-color: palevioletred;
     width: fit-content;
